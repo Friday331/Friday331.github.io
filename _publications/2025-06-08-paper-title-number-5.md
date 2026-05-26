@@ -31,7 +31,7 @@ Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2019). Japanese co-
 
 ## Conference Proceedings
 
-Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Iida, H. (2026). Markedness as surprisal: Information theory and language inefficiency. *Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci 2026)*. [researchgate.net/publication/404217280_Markedness_as_Surprisal_Information_Theory_and_Language_Inefficiency?_sg%5B0%5D=9RTNXvp8uwp0yGm2N8aMNGACM3y7jSI_dYG_0mcsjKa9UCVEO8UXSzdke78t0OCIE7l6upcdHmxb3Cg3Q25YZkBhe2RyGGhXFFxBKXem.hWU3sdGJK_XFDWSztm5WCNrkFc0CG0AI5LX3RIX5mhNMZF7ybyw_WALe6Uszum3D-OCtaQRSf4CJZuIdkgvVBg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)
+Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Iida, H. (2026). Markedness as surprisal: Information theory and language inefficiency. *Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci 2026)*. [ResearchGate](https://www.researchgate.net/publication/404217280_Markedness_as_Surprisal_Information_Theory_and_Language_Inefficiency)
 
 Mooshammer, T., & Kilpatrick, A. J. (2025). Age-related positivity effects in the perception of constructed languages. *Proceedings of the 21st P&P: Phonetik und Phonologie im deutschsprachigen Raum*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
