@@ -15,17 +15,17 @@ Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Exploring the dynamics of 
 
 Kilpatrick, A. J. (2025). The negativity bias is encoded in language. *JASA Express Letters*, 5(2). [ResearchGate](https://www.researchgate.net/publication/389139158_The_negativity_bias_is_encoded_in_language)
 
-Ngai, C. H., Kilpatrick, A. J., & Ćwiek, A. (2024). Sound symbolism in Japanese names: Machine learning approaches to gender classification. *PLOS ONE*, 19(3), e0297440. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Ngai, C. H., Kilpatrick, A. J., & Ćwiek, A. (2024). Sound symbolism in Japanese names: Machine learning approaches to gender classification. *PLOS ONE*, 19(3), e0297440. [ResearchGate](https://www.researchgate.net/publication/378872714_Sound_symbolism_in_Japanese_names_Machine_learning_approaches_to_gender_classification)
 
-Kilpatrick, A. J., & Ćwiek, A. (2024). Using artificial intelligence to explore sound symbolic expressions of gender in American English. *PeerJ Computer Science*, 10, e1811. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Ćwiek, A. (2024). Using artificial intelligence to explore sound symbolic expressions of gender in American English. *PeerJ Computer Science*, 10, e1811. [ResearchGate](https://www.researchgate.net/publication/377443356_Using_artificial_intelligence_to_explore_sound_symbolic_expressions_of_gender_in_American_English)
 
-Kilpatrick, A. J., Ćwiek, A., Lewis, E., & Kawahara, S. (2023). A cross-linguistic, sound symbolic relationship between labial consonants, voiced plosives, and Pokémon friendship. *Frontiers in Psychology*, 14, 722. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., Ćwiek, A., Lewis, E., & Kawahara, S. (2023). A cross-linguistic, sound symbolic relationship between labial consonants, voiced plosives, and Pokémon friendship. *Frontiers in Psychology*, 14, 722. [ResearchGate](https://www.researchgate.net/publication/368777860_A_cross-linguistic_sound_symbolic_relationship_between_labial_consonants_voiced_plosives_and_Pokemon_friendship)
 
-Kilpatrick, A. J., Ćwiek, A., & Kawahara, S. (2023). Random forests, sound symbolism and Pokémon evolution. *PLOS ONE*, 18(1), e0279350. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., Ćwiek, A., & Kawahara, S. (2023). Random forests, sound symbolism and Pokémon evolution. *PLOS ONE*, 18(1), e0279350. [ResearchGate](https://www.researchgate.net/publication/366867870_Random_forests_sound_symbolism_and_Pokemon_evolution)
 
-Kilpatrick, A. J., Kawahara, S., Bundgaard-Nielsen, R., Baker, B., & Fletcher, J. (2020). Japanese perceptual epenthesis is modulated by transitional probability. *Language and Speech*, 63(4), 980–1003. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., Kawahara, S., Bundgaard-Nielsen, R., Baker, B., & Fletcher, J. (2020). Japanese perceptual epenthesis is modulated by transitional probability. *Language and Speech*, 63(4), 980–1003. [ResearchGate](https://www.researchgate.net/publication/342228092_Japanese_Perceptual_Epenthesis_is_Modulated_by_Transitional_Probability)
 
-Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2019). Japanese co-occurrence restrictions influence second language perception. *Applied Psycholinguistics*, 40(2), 585–611. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2019). Japanese co-occurrence restrictions influence second language perception. *Applied Psycholinguistics*, 40(2), 585–611. [ResearchGate](https://www.researchgate.net/publication/329572962_Japanese_Co-Occurrence_Restrictions_Influence_Second_Language_Perception)
 
 ---
 
@@ -41,11 +41,11 @@ Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Language processing insigh
 
 Kilpatrick, A. J., & Flaksman, M. (2025). The exception of humor: Iconicity, phonemic surprisal, memory recall, and emotional associations. *Proceedings of the 1st Workshop on Computational Humor*. [ResearchGate](https://www.researchgate.net/publication/388686379_The_exception_of_humour_Iconicity_Phonemic_Surprisal_Memory_Recall_and_Emotional_Associations)
 
-Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2024). Decoding informativity and iconicity in American English. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2024). Decoding informativity and iconicity in American English. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*. [ResearchGate](https://www.researchgate.net/publication/380976252_Decoding_Surprisal_and_Iconicity_in_American_English)
 
-Kilpatrick, A. J., & Peperkamp, P. (2024). Coarticulation and transitional probability in Japanese perceptual epenthesis. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Peperkamp, P. (2024). Coarticulation and transitional probability in Japanese perceptual epenthesis. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*. [ResearchGate](https://www.researchgate.net/publication/380824760_Coarticulation_and_Transitional_Probability_in_Japanese_Perceptual_Epenthesis)
 
-Kilpatrick, A. J. (2024). Information equilibration in English and Japanese morphemes. *Proceedings of the 19th Conference on Laboratory Phonology*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J. (2024). Information equilibration in English and Japanese morphemes. *Proceedings of the 19th Conference on Laboratory Phonology*. [ResearchGate](https://www.researchgate.net/publication/380371193_Information_Equilibration_in_English_and_Japanese_Morphemes)
 
 Kilpatrick, A. J. (2024). Sound symbolism in automatic emotion recognition and sentiment analysis. *Proceedings of Cognitive A.I.* [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
