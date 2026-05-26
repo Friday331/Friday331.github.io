@@ -13,7 +13,7 @@ Flaksman, M., & Kilpatrick, A. J. (2025). Against the tide: How language-specifi
 
 Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Exploring the dynamics of Shannon's information and iconicity in language processing and lexeme evolution. *PLOS ONE*, 20(4), e0321294. [ResearchGate](https://www.researchgate.net/publication/391278944_Exploring_the_dynamics_of_Shannon's_information_and_iconicity_in_language_processing_and_lexeme_evolution)
 
-Kilpatrick, A. J. (2025). The negativity bias is encoded in language. *JASA Express Letters*, 5(2). [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J. (2025). The negativity bias is encoded in language. *JASA Express Letters*, 5(2). [ResearchGate](https://www.researchgate.net/publication/389139158_The_negativity_bias_is_encoded_in_language)
 
 Ngai, C. H., Kilpatrick, A. J., & Ćwiek, A. (2024). Sound symbolism in Japanese names: Machine learning approaches to gender classification. *PLOS ONE*, 19(3), e0297440. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
@@ -39,7 +39,7 @@ Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Say what you mean: Linguis
 
 Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Language processing insights from average phonemic bigram surprisal. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/publication/393966460_Language_Processing_Insights_from_Average_Phonemic_Bigram_Surprisal)
 
-Kilpatrick, A. J., & Flaksman, M. (2025). The exception of humor: Iconicity, phonemic surprisal, memory recall, and emotional associations. *Proceedings of the 1st Workshop on Computational Humor*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Flaksman, M. (2025). The exception of humor: Iconicity, phonemic surprisal, memory recall, and emotional associations. *Proceedings of the 1st Workshop on Computational Humor*. [ResearchGate](https://www.researchgate.net/publication/388686379_The_exception_of_humour_Iconicity_Phonemic_Surprisal_Memory_Recall_and_Emotional_Associations)
 
 Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2024). Decoding informativity and iconicity in American English. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
