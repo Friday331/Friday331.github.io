@@ -9,9 +9,9 @@ author_profile: true
 
 Kilpatrick, A., & Bundgaard-Nielsen, R. (2026). Say it like you mean it: Linguistic vividness and the attentional optimization hypothesis. *Cognition*, 269, 106406. [ResearchGate](https://www.researchgate.net/publication/398711780_Say_it_like_you_mean_it_Linguistic_vividness_and_the_attentional_optimization_hypothesis)
 
-Flaksman, M., & Kilpatrick, A. J. (2025). Against the tide: How language-specificity of imitative words increases with time (as evidenced by surprisal). In M. Flaksman & P. Akumbu (Eds.), *SKASE Journal of Theoretical Linguistics*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Flaksman, M., & Kilpatrick, A. J. (2025). Against the tide: How language-specificity of imitative words increases with time (as evidenced by surprisal). In M. Flaksman & P. Akumbu (Eds.), *SKASE Journal of Theoretical Linguistics*. [ResearchGate](https://www.researchgate.net/publication/393626949_Against_the_tide_How_language-specificity_of_imitative_words_increases_with_time_as_evidenced_by_Surprisal)
 
-Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Exploring the dynamics of Shannon's information and iconicity in language processing and lexeme evolution. *PLOS ONE*, 20(4), e0321294. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Exploring the dynamics of Shannon's information and iconicity in language processing and lexeme evolution. *PLOS ONE*, 20(4), e0321294. [ResearchGate](https://www.researchgate.net/publication/391278944_Exploring_the_dynamics_of_Shannon's_information_and_iconicity_in_language_processing_and_lexeme_evolution)
 
 Kilpatrick, A. J. (2025). The negativity bias is encoded in language. *JASA Express Letters*, 5(2). [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
@@ -37,7 +37,7 @@ Mooshammer, T., & Kilpatrick, A. J. (2025). Age-related positivity effects in th
 
 Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Say what you mean: Linguistic vividness and information theory. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/publication/393966711_Say_what_you_mean_Linguistic_vividness_and_information_theory)
 
-Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Language processing insights from average phonemic bigram surprisal. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Language processing insights from average phonemic bigram surprisal. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/publication/393966460_Language_Processing_Insights_from_Average_Phonemic_Bigram_Surprisal)
 
 Kilpatrick, A. J., & Flaksman, M. (2025). The exception of humor: Iconicity, phonemic surprisal, memory recall, and emotional associations. *Proceedings of the 1st Workshop on Computational Humor*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
