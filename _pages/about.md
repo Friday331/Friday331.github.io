@@ -18,6 +18,26 @@ My research explores language structure and cognition using computational and in
 - Iconicity and sound symbolism
 - Computational linguistics
 - Machine Learning
+
+## Selected Publications
+
+{% for pub in site.publications limit:5 %}
+- **{{ pub.title }}** — *{{ pub.citation }}* [DOI]({{ pub.doi }}) [PDF]({{ pub.pdf_url }})
+{% endfor %}
+
+[Full publication list →](/publications/)
+
+## Recent News / Blog
+
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }})
+{% endfor %}
+
+[All posts →](/blog/)
+
+## CV & Contact
+
+[Download CV (PDF)](/files/cv.pdf) | [View CV](/cv/) | alex@u-aizu.ac.jp
   
 ## Prospective Students
 
