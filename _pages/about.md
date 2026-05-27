@@ -19,13 +19,9 @@ My research explores language structure and cognition using computational and in
 - Computational linguistics
 - Machine Learning
 
-## Selected Publications
+## Publications
 
-{% for pub in site.publications limit:5 %}
-- **{{ pub.title }}** — *{{ pub.citation }}* [DOI]({{ pub.doi }}) [PDF]({{ pub.pdf_url }})
-{% endfor %}
-
-[Full publication list →](/publications/)
+[Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=vHQ2KXEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
 ## Recent News / Blog
 
