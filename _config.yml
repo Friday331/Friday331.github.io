@@ -21,8 +21,6 @@ author:
   email            : "alex@u-aizu.ac.jp"
 
   # Academic websites
-  academia         :
-  arxiv            :
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Alexander Kilpatrick"
