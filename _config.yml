@@ -150,6 +150,8 @@ social:
     - https://www.researchgate.net/profile/Alexander-Kilpatrick-2
     - https://bsky.app/profile/alexkilpatrick.bsky.social
 
+future: true
+
 # Analytics
 analytics:
   provider               : "false"
