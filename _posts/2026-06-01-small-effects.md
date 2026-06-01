@@ -22,7 +22,7 @@ Words are the residue of history: noisy, contingent, shaped by forces operating 
 
 ---
 
-*This post draws on research conducted with Rikke Bundgaard-Nielsen (University of Melbourne), supported by a grant from the University of Aizu. The full paper is published in* Cognition *(2026).*
+*This post draws on research conducted with Rikke Bundgaard-Nielsen (University of Melbourne), supported by a grant from the University of Aizu. The full paper is published in* Cognition *(2026). A plain language version of this study is available [here](https://theconversation.com/some-words-affect-us-more-than-others-it-boils-down-to-how-they-sound-264677).*
 
 ---
 
