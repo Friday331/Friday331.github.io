@@ -1,3 +1,11 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
+# server process.
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -11,6 +19,7 @@ repository               : "alexanderkilpatrick/alexanderkilpatrick.github.io"
 
 # Site Author
 author:
+  # Biographic information
   avatar           : "profile.png"
   name             : "Alexander Kilpatrick"
   pronouns         :
@@ -18,28 +27,6 @@ author:
   location         : "Aizu-Wakamatsu, Japan"
   employer         : "University of Aizu"
   uri              : "https://alexanderkilpatrick.github.io"
-  email            : "alex@u-aizu.ac.jp"
-
-  # Academic websites
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Alexander Kilpatrick"
-title_separator          : "-"
-name                     : &name "Alexander Kilpatrick"
-description              : &description "Alexander Kilpatrick's research portfolio"
-url                      : https://alexanderkilpatrick.github.io
-baseurl                  : ""
-repository               : "alexanderkilpatrick/alexanderkilpatrick.github.io"
-
-# Site Author
-author:
-  avatar           : "profile.png"
-  name             : "Alexander Kilpatrick"
-  pronouns         :
-  bio              : "I am an Associate Professor in the Center for Language Research at the University of Aizu. I am the director of the Language, Cognition, and Computation Laboratory."
-  location         : "Aizu-Wakamatsu, Japan"
-  employer         : "University of Aizu"
-  uri              :
   email            : "alex@u-aizu.ac.jp"
 
   # Academic websites
@@ -151,11 +138,17 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :
-og_description           :
+og_description           : "Alexander Kilpatrick is an Associate Professor at the University of Aizu researching computational linguistics, psycholinguistics, information theory, phonology, sound symbolism, machine learning, and language cognition."
 social:
-  type                   :
-  name                   :
+  type                   : "Person"
+  name                   : "Alexander Kilpatrick"
   links:
+    - https://alexanderkilpatrick.github.io
+    - https://scholar.google.com/citations?user=vHQ2KXEAAAAJ&hl=en
+    - https://orcid.org/0000-0003-3134-3797
+    - https://github.com/alexanderkilpatrick
+    - https://www.researchgate.net/profile/Alexander-Kilpatrick-2
+    - https://bsky.app/profile/alexkilpatrick.bsky.social
 
 # Analytics
 analytics:
@@ -236,6 +229,7 @@ collections:
 
 # Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -246,12 +240,14 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -260,6 +256,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -268,6 +265,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -276,6 +274,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
   - scope:
       path: ""
       type: talks
@@ -323,77 +322,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-  googlescholar    : "https://scholar.google.com/citations?user=vHQ2KXEAAAAJ&hl=en"
-  inspire-hep      :
-  impactstory      :
-  orcid            : "https://orcid.org/0000-0003-3134-3797"
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     : "https://www.researchgate.net/profile/Alexander-Kilpatrick-2"
-  scopus           :
-  zotero           :
-
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  github           : "alexanderkilpatrick"
-  kaggle           :
-  stackoverflow    :
-
-  # Social media
-  artstation       :
-  bluesky          : "alexkilpatrick.bsky.social"
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
-
-# SEO Related
-google_site_verification : "PASTE_YOUR_GOOGLE_VERIFICATION_CODE_HERE"
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               :
-
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-
-og_image                 :
-og_description           : "Alexander Kilpatrick is an Associate Professor at the University of Aizu researching computational linguistics, psycholinguistics, information theory, phonology, sound symbolism, machine learning, and language cognition."
-
-social:
-  type                   : "Person"
-  name                   : "Alexander Kilpatrick"
-  links:
-    - https://alexanderkilpatrick.github.io
-    - https://scholar.google.com/citations?user=vHQ2KXEAAAAJ&hl=en
-    - https://orcid.org/0000-0003-3134-3797
-    - https://github.com/alexanderkilpatrick
-    - https://www.researchgate.net/profile/Alexander-Kilpatrick-2
-    - https://bsky.app/profile/alexkilpatrick.bsky.social
