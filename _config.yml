@@ -22,7 +22,7 @@ author:
 
   # Academic websites
   academia         :
-  arxiv            :# Basic Site Settings
+  arxiv            :
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Alexander Kilpatrick"
